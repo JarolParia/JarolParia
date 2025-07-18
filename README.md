@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/164337992?v=4" width="150" alt="JarolParia Avatar" style="border-radius: 50%" />
   <h1>Hi there! 👋 I'm <strong>Jarol Paria</strong></h1>
   <p>🎓 Software Engineering Student | 💡 Fast Learner | 🤝 Team Player</p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk0Z21wa3N6NjJoazlhdXZqb3BmbnAydnhtMDR2dHg3NnB5c2RkaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U3qYN8S0j3bpK/giphy.gif" width="250" alt="Welcome GIF" />
 </div>
 
 ---
